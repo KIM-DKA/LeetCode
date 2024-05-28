@@ -41,7 +41,7 @@ nums	result
 """
 
 import unittest
-from typing import List
+from typing import Listg
 
 def solution(nums: List[int]) -> int:
     max_pokemon_count = len(nums) // 2
