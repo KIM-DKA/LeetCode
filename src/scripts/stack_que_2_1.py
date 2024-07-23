@@ -99,7 +99,6 @@ def solution(progresses: List[int], speeds: List[int]) -> List[int]:
 
 
 
-
 if __name__ == "__main__": 
 
 # return [1, 3, 2]
@@ -107,3 +106,5 @@ if __name__ == "__main__":
     progresses = [95, 90, 99, 99, 80, 99] # 현재 작업율
     speeds = [1, 1, 1, 1, 1, 1] # 작업 진척율 
     solution(progresses,speeds)
+
+
